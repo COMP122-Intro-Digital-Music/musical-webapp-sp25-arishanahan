@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "name": "funkybunk1",
+    "type": "Synth",
+    "settings": {
+      "volume": -16.999999999999996,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.315",
+        "attackCurve": "bounce",
+        "decay": "0.14",
+        "decayCurve": "linear",
+        "release": "1",
+        "releaseCurve": "ripple",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "sawtooth"
+      }
+    }
+  },
+  {
+    "name": "funkybunk2",
+    "type": "Synth",
+    "settings": {
+      "volume": -21,
+      "detune": 0,
+      "portamento": "0",
+      "envelope": {
+        "attack": "0.005",
+        "attackCurve": "ripple",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "bounce",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": 0,
+        "partials": [],
+        "phase": 0,
+        "type": "fmsawtooth",
+        "harmonicity": 1,
+        "modulationIndex": 2,
+        "modulationType": "square"
+      }
+    }
+  }
+]
