@@ -1,4 +1,4 @@
-[][
+[
   {
     "name": "shot",
     "pitch": "D#4",
@@ -13,38 +13,5 @@
     "name": "kick",
     "pitch": "A3",
     "pattern": "1000"
-  }
-]
-[
-  {
-    "name": "shot",
-    "pitch": "B3",
-    "pattern": "10000"
-  },
-  {
-    "name": "hi hat",
-    "pitch": "C4",
-    "pattern": "1000000"
-  },
-  {
-    "name": "kick",
-    "pitch": "C4",
-    "pattern": "100"
-  }
-][
-  {
-    "name": "shot",
-    "pitch": "D4",
-    "pattern": "1000000"
-  },
-  {
-    "name": "hi hat",
-    "pitch": "C4",
-    "pattern": "10000"
-  },
-  {
-    "name": "kick",
-    "pitch": "A3",
-    "pattern": "10000"
   }
 ]
